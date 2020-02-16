@@ -37,5 +37,8 @@
   "browserslist": [
     "> 1%",
     "last 2 versions"
-  ]
+  ],
+  "main": "index.js",
+  "author": "Felipe Alexandre <felipeas314@gmail.com>",
+  "license": "MIT"
 }
